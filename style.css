@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 10;
+
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+h2 {
+    color: blue;
+    margin-right: 10;
+    border: 3px;
+    border-radius: 10;
+    background-color: whitesmoke;
+}
+
+p {
+    text-align: justify;
+    box-sizing: content-box;
+    margin-left: 10;
+    margin-right: 10;
+    color: darkslategrey;
+}
+
+button {
+    color: blueviolet;
+    background-color: black;
+    font-size: larger;
+}
+
